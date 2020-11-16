@@ -1,0 +1,1 @@
+Dodawanie pisemne w C
